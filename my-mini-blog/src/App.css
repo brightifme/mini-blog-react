@@ -1,21 +1,23 @@
-
-.app-grid-js{
-
-background: #C6FFDD;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to top, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to top, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+.jumbotron{
+text-align: center;
+font-weight: bolder;
 
 }
-.avatar-img{
-height: 250px;
-padding-top: 2em;
+.hon{
+	padding: 18px;
+	margin:auto;
 }
-
-.banner-text{
-background-color: black;
-opacity: .8;
-width: 75%;
-margin:auto;
-border-radius: 10px;
-
+.para{
+	font-weight: bolder;
+	font-size: 14px;
+}
+.home{
+	font-weight: bolder;
+	font-size: 14px;
+	color: black;
+}
+.dev{
+	font-weight: bolder;
+	font-size: 17px;
+	color: black;
 }
