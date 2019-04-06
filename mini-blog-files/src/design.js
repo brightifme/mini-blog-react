@@ -37,7 +37,7 @@ class Design extends React.Component {
 
 
 <Jumbotron className="jumbotron">
-  <h1>John Doe</h1>
+  <h1>Bright Ibeme</h1>
   <p className="para">Full Stack Developer Javascript (React, Backbone.js, Vue, Angular), Bootstrap, Php(Laravel), MongoDB, Node.js, Mysql</p>
   <p>
     <Button variant="success">Learn more</Button>
