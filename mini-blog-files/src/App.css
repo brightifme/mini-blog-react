@@ -1,0 +1,23 @@
+.jumbotron{
+text-align: center;
+font-weight: bolder;
+
+}
+.hon{
+	padding: 18px;
+	margin:auto;
+}
+.para{
+	font-weight: bolder;
+	font-size: 14px;
+}
+.home{
+	font-weight: bolder;
+	font-size: 14px;
+	color: black;
+}
+.dev{
+	font-weight: bolder;
+	font-size: 17px;
+	color: black;
+}
